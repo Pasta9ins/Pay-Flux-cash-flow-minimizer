@@ -14,17 +14,6 @@ Westpac
 National_Australia_Bank
 Goldman_Sachs
 Following are the payments to be done:
-    **Debtor Bank**         **Creditor Bank**         **Amount**
-
-Goldman_Sachs        Bank_of_America           Rs 100
-Goldman_Sachs        Wells_Fargo           Rs 300
-Goldman_Sachs        Royal_Bank_of_Canada       Rs 100
-Goldman_Sachs        Westpac              Rs 100
-National_Australia_Bank      Bank_of_America           Rs 300
-National_Australia_Bank      Royal_Bank_of_Canada          Rs 100
-Bank_of_America          Wells_Fargo             Rs 400
-Wells_Fargo            Royal_Bank_of_Canada       Rs 200
-Royal_Bank_of_Canada        Westpac              Rs 500
 
 ![Demo Graph](assets/graph_.png)
 
